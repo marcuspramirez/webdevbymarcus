@@ -1,7 +1,7 @@
 .centered {
     position: fixed;
     top: 45%;
-    left: 36%;
+    left: 33%;
     margin-top: -50px;
     margin-left: -100px;
   }
@@ -20,6 +20,8 @@ html, body {
     background: #2c3e50;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
+    background-image: url("https://i.pinimg.com/originals/3d/e4/20/3de4208a99cfe2be660278747391ff5e.jpg");
+    background-color: #cccccc;
   }
   
   body {
