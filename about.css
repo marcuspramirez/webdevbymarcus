@@ -1,0 +1,53 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: #2c3e50;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    background-image: url("https://i.pinimg.com/originals/3d/e4/20/3de4208a99cfe2be660278747391ff5e.jpg");
+    background-color: #cccccc;
+  }
+
+  .centered {
+    position: fixed;
+    top: 45%;
+    left: 33%;
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+  
+  body {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-align-content: center;
+        -ms-flex-line-pack: center;
+            align-content: center;
+  }
+
+  #about-what {
+      color: white;
+  }
+
+  p {
+    color: white;
+  }
+
+  .hi-al {
+      text-align: center;
+      color: purple;
+      font-size: 300px;
+  }

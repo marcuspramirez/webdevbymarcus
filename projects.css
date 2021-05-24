@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: #2c3e50;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    background-image: url("https://i.pinimg.com/originals/3d/e4/20/3de4208a99cfe2be660278747391ff5e.jpg");
+    background-color: #cccccc;
+  }
